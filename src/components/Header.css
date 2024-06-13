@@ -1,0 +1,116 @@
+/* src/Header.css */
+.headerimgage {
+  width: 45px;
+  height: 45px;
+  object-fit: cover;
+  border-radius: 50%; /* Makes the image circular */
+}
+
+header .navbar-brand {
+  height: 150px;
+}
+
+#descLength {
+  text-align: right;
+}
+
+.header-logo {
+  width: 100px;
+  height: auto;
+}
+
+/* Other existing styles */
+.d-flex {
+  display: flex;
+}
+
+.bg-gradient {
+  background-color: #629ae4;
+}
+
+.ReactTitle img {
+  width: 50px;
+  height: 50px;
+}
+
+.ReactTitle h3 {
+  margin: 0;
+  width: 1270px;
+
+}
+
+h4{
+  margin-bottom: 0;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+
+/* Header Styles */
+
+header .bg-gradient {
+background: rgb(216, 216, 216);
+}
+
+header .navbar {
+padding: 20px 0 0;
+}
+
+header .navbar-brand {
+padding: 0;
+z-index: 1;
+width: 213px;
+height: 109px;
+background-color: rgb(13, 68, 172);
+}
+
+header .navbar-brand img {
+width: 90px;
+}
+
+header h3 {
+font: normal normal 600 18px/27px Oswald;
+color: #fff;
+}
+
+header h4 {
+font: normal normal 600 18px/28px Oswald;
+letter-spacing: 0.36px;
+color: #191919;
+text-transform: uppercase;
+}
+
+header p {
+font: 600 12px/15px Poppins;
+letter-spacing: 0.24px;
+color: #191919;
+}
+
+.ReactTitle {
+background-color: #838383;
+height: 50px;
+font: normal normal 600 19px/27px Oswald;
+letter-spacing: 0.38px;
+color: #ffffff;
+text-transform: uppercase;
+}
+
+.ReactTitle img {
+width: 60px;
+margin-right: 10px;
+}
+
+.link {
+background-color: rgba(0, 0, 0, 0.09);
+font: normal normal medium 12px/15px Poppins;
+letter-spacing: 0.24px;
+height: 40px;
+padding: 10px 10px;
+}
+
+.link a {
+color: #055ba6;
+}
